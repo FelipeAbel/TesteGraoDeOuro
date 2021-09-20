@@ -1,0 +1,62 @@
+﻿@page "/"
+
+<h1>Tarefas</h1>
+
+@if(tarefas==null)
+{
+    <p>Ainda não existem tarefas</p>
+}
+else
+{
+    @*<div>
+        <input type="checkbox"/>
+        <input type="text" @bind="novaTarefa"/>
+    </div>*@
+    <tbody>
+        @foreach(var item in tarefas)
+        {
+        <div>
+            <input type="checkbox" />
+            <input type="text" @bind="item.Descricao" />
+        </div>
+        }
+    </tbody>
+
+}
+
+@if(tarefas != null)
+{
+    <div class="form-group">
+        <label>Tarefa</label>
+        <input type="text" placeholder="Informe a tarefa" @bind="novaTarefa" />
+        <button class="btn btn-primary" @onclick="AdicionarNovaTarefa">Registrar Tarefa</button>
+
+    </div>
+}
+
+@code{
+
+    public class Tarefa
+    {
+        public Guid ID { get; set; }
+        public string Descricao { get; set; }
+        public bool Concluida { get; set; }
+    }
+
+    private string novaTarefa = "";
+
+    private List<Tarefa> tarefas = new List<Tarefa>();
+
+    void AdicionarNovaTarefa()
+    {
+        if (!string.IsNullOrWhiteSpace(novaTarefa))
+        {
+            tarefas.Add(new Tarefa
+            {
+                Descricao = novaTarefa,
+                ID = Guid.NewGuid()
+            });
+            novaTarefa = "";
+        }
+    }
+}
