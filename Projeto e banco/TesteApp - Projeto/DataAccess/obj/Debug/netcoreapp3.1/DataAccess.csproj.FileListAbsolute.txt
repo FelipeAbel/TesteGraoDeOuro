@@ -1,0 +1,31 @@
+C:\Users\smayo\Desktop\TesteApp\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\smayo\Desktop\TesteApp\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\Users\smayo\Desktop\TesteApp\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\Users\smayo\Desktop\TesteApp\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\smayo\Desktop\TesteApp\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\smayo\Desktop\TesteApp\DataAccess\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\smayo\Desktop\TesteApp\DataAccess\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\smayo\Desktop\TesteApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\smayo\Desktop\TesteApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\smayo\Desktop\TesteApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\smayo\Desktop\TesteApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\smayo\Desktop\TesteApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\smayo\Desktop\TesteApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\smayo\Desktop\TesteApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\smayo\Desktop\TesteApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\DataAccess\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\DataAccess\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache

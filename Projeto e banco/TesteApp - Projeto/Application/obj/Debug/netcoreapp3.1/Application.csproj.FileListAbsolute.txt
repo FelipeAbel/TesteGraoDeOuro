@@ -1,0 +1,34 @@
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\TesteApp\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\TesteApp\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\TesteApp\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\TesteApp\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\TesteApp\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\smayo\Desktop\TesteApp\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\smayo\Desktop\TesteApp\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\smayo\Desktop\TesteApp\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\smayo\Desktop\TesteApp\Application\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\smayo\Desktop\TesteApp\Application\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\smayo\Desktop\TesteApp\Application\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\smayo\Desktop\TesteApp\Application\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\smayo\Desktop\TesteApp\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Users\smayo\Desktop\TesteApp\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\smayo\Desktop\TesteApp\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\smayo\Desktop\TesteApp\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\smayo\Desktop\TesteApp\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\smayo\Desktop\TesteApp\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\smayo\Desktop\TesteApp\Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Application\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Application\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Application\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Application\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Application\obj\Debug\netcoreapp3.1\Application.pdb

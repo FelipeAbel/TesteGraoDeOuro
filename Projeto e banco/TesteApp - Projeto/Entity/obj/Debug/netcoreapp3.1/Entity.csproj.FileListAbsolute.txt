@@ -1,0 +1,34 @@
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\TesteApp\Entity\bin\Debug\netcoreapp3.1\Entity.deps.json
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\TesteApp\Entity\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\TesteApp\Entity\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\TesteApp\Entity\obj\Debug\netcoreapp3.1\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\TesteApp\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfoInputs.cache
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\TesteApp\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfo.cs
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\TesteApp\Entity\obj\Debug\netcoreapp3.1\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\TesteApp\Entity\obj\Debug\netcoreapp3.1\Entity.dll
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\TesteApp\Entity\obj\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\smayo\Desktop\TesteApp\Entity\bin\Debug\netcoreapp3.1\Entity.deps.json
+C:\Users\smayo\Desktop\TesteApp\Entity\bin\Debug\netcoreapp3.1\Entity.runtimeconfig.json
+C:\Users\smayo\Desktop\TesteApp\Entity\bin\Debug\netcoreapp3.1\Entity.runtimeconfig.dev.json
+C:\Users\smayo\Desktop\TesteApp\Entity\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\smayo\Desktop\TesteApp\Entity\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\smayo\Desktop\TesteApp\Entity\obj\Debug\netcoreapp3.1\Entity.csprojAssemblyReference.cache
+C:\Users\smayo\Desktop\TesteApp\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfoInputs.cache
+C:\Users\smayo\Desktop\TesteApp\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfo.cs
+C:\Users\smayo\Desktop\TesteApp\Entity\obj\Debug\netcoreapp3.1\Entity.csproj.CoreCompileInputs.cache
+C:\Users\smayo\Desktop\TesteApp\Entity\obj\Debug\netcoreapp3.1\Entity.dll
+C:\Users\smayo\Desktop\TesteApp\Entity\obj\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\smayo\Desktop\TesteApp\Entity\obj\Debug\netcoreapp3.1\Entity.genruntimeconfig.cache
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Entity\bin\Debug\netcoreapp3.1\Entity.deps.json
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Entity\bin\Debug\netcoreapp3.1\Entity.runtimeconfig.json
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Entity\bin\Debug\netcoreapp3.1\Entity.runtimeconfig.dev.json
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Entity\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Entity\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Entity\obj\Debug\netcoreapp3.1\Entity.csproj.AssemblyReference.cache
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Entity\obj\Debug\netcoreapp3.1\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfoInputs.cache
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfo.cs
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Entity\obj\Debug\netcoreapp3.1\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Entity\obj\Debug\netcoreapp3.1\Entity.dll
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Entity\obj\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\Felipe Abel\Documents\Estágio Grão de Ouro\TesteGraoDeOuro\Projeto e banco\TesteApp - Projeto\Entity\obj\Debug\netcoreapp3.1\Entity.genruntimeconfig.cache
